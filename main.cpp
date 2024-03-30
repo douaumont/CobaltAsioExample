@@ -2,7 +2,7 @@
 // This program is an example of how to use Boost.Cobalt together with Boost.Asio
 // to perform read and write operations via network, as well as DNS name resolution 
 // and establishing connection.
-// You may use this peace of software under MIT license
+// You may use this peace of software as you wish
 
 #include <boost/cobalt.hpp>
 #include <boost/asio.hpp>
